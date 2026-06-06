@@ -1,5 +1,6 @@
 # 📚 Online_Bookstore_Management_System-Analytics
 <div align="center">
+  
 ![Status](https://img.shields.io/badge/Status-Complete-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
