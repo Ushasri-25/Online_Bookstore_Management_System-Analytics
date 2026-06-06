@@ -1,6 +1,8 @@
 # Online BookStore Management System & Analytics
 ----
+
 A comprehensive data analytics project designed to analyze bookstore operations, customer behavior, sales performance, inventory trends, returns, and customer reviews using SQL and relational database concepts
+
 ---
 
 ## 📌 Table of Contents
