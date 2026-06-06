@@ -12,14 +12,8 @@ A comprehensive data analytics project designed to analyze bookstore operations,
 3. [Project Structure](#-project-structure)
 4. [Entity Relationship](#-entity-relationship)
 5. [Key Findings](#-key-findings)
-6. [Getting Started](#-getting-started)
-7. [Analysis Modules](#-analysis-modules)
-8. [Tech Stack](#-tech-stack)
-9. [Business Insights](#-business-insights)
-10. [Documentation](#-documentation)
-11. [Contributing](#-contributing)
-12. [License](#-license)
-
+6. [Business Insights](#-business-insights)
+ 
 ---
 
 ## 🧭 About the Project
