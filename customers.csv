@@ -1,0 +1,61 @@
+Customer_Id,Customer_Name,Gender,Age,Email,Phone Number,City,State,Registration_Date,Membership,Preferred_Category
+C001,Neha Mishra,Female,44,neha.mishra1@email.com,9876557559,Vijayawada,Andhra Pradesh,2023-03-16,Free,Technology
+C002,Venkat Rao,Male,31,venkat.rao2@email.com,9876553702,Vijayawada,Andhra Pradesh,2023-03-30,Free,Self-Help
+C003,Arun Agarwal,Male,25,arun.agarwal3@email.com,9876559103,Vijayawada,Andhra Pradesh,2023-05-07,Free,Education
+C004,Sneha Nair,Female,27,sneha.nair4@email.com,9876553734,Vijayawada,Andhra Pradesh,2023-05-17,Silver,Education
+C005,Sachin Joshi,Male,21,sachin.joshi5@email.com,9876559057,Indore,Madhya Pradesh,2023-07-05,Silver,Technology
+C006,Arun Kumar,Male,37,arun.kumar6@email.com,9876546748,Coimbatore,Tamil Nadu,2023-03-03,Platinum,History
+C007,Ananya Mehta,Female,29,ananya.mehta7@email.com,9876549822,Coimbatore,Tamil Nadu,2024-04-09,Silver,Biography
+C008,Ravi Kumar,Male,34,ravi.kumar8@email.com,9876556223,Coimbatore,Tamil Nadu,2023-11-04,Gold,History
+C009,Lakshmi Tiwari,Female,34,lakshmi.tiwari9@email.com,9876553701,Chennai,Tamil Nadu,2023-05-01,Silver,Biography
+C010,Neha Chauhan,Female,39,neha.chauhan10@email.com,9876542543,Chandigarh,Punjab,2023-02-10,Gold,Technology
+C011,Riya Chauhan,Female,20,riya.chauhan11@email.com,9876543066,Coimbatore,Tamil Nadu,2024-04-12,Gold,Business
+C012,Arjun Joshi,Male,27,arjun.joshi12@email.com,9876552641,Coimbatore,Tamil Nadu,2024-04-01,Gold,Fiction
+C013,Rekha Gupta,Female,33,rekha.gupta13@email.com,9876541931,Visakhapatnam,Andhra Pradesh,2023-04-30,Silver,Biography
+C014,Neha Nair,Female,45,neha.nair14@email.com,9876556269,Bhopal,Madhya Pradesh,2024-02-05,Free,Self-Help
+C015,Sunita Das,Female,44,sunita.das15@email.com,9876554107,Jaipur,Rajasthan,2023-05-21,Gold,History
+C016,Rekha Mishra,Female,20,rekha.mishra16@email.com,9876545774,Kochi,Kerala,2023-06-04,Silver,Self-Help
+C017,Rahul Chauhan,Male,26,rahul.chauhan17@email.com,9876549238,Coimbatore,Tamil Nadu,2023-07-06,Free,Self-Help
+C018,Sudha Iyer,Female,22,sudha.iyer18@email.com,9876556891,Visakhapatnam,Andhra Pradesh,2023-11-23,Free,Business
+C019,Sunita Mishra,Female,33,sunita.mishra19@email.com,9876553121,Bhopal,Madhya Pradesh,2023-04-17,Free,Self-Help
+C020,Suresh Mehta,Male,28,suresh.mehta20@email.com,9876559684,Delhi,Delhi,2023-04-23,Free,Fiction
+C021,Sachin Singh,Male,29,sachin.singh21@email.com,9876540835,Indore,Madhya Pradesh,2023-04-14,Free,Biography
+C022,Kartik Mishra,Male,29,kartik.mishra22@email.com,9876559735,Mumbai,Maharashtra,2023-09-16,Gold,Business
+C023,Kiran Chauhan,Male,33,kiran.chauhan23@email.com,9876550218,Nagpur,Maharashtra,2024-05-06,Free,Self-Help
+C024,Nikhil Verma,Male,34,nikhil.verma24@email.com,9876540756,Surat,Gujarat,2023-06-15,Silver,Education
+C025,Neha Das,Female,27,neha.das25@email.com,9876542982,Hyderabad,Telangana,2024-06-24,Gold,Education
+C026,Kavya Iyer,Female,35,kavya.iyer26@email.com,9876556472,Kochi,Kerala,2024-06-29,Gold,History
+C027,Kartik Rao,Male,41,kartik.rao27@email.com,9876547429,Kochi,Kerala,2024-02-15,Silver,Education
+C028,Rekha Sharma,Female,33,rekha.sharma28@email.com,9876548492,Hyderabad,Telangana,2023-10-14,Silver,History
+C029,Pallavi Iyer,Female,25,pallavi.iyer29@email.com,9876543347,Ahmedabad,Gujarat,2023-03-24,Silver,Business
+C030,Nikhil Rao,Male,33,nikhil.rao30@email.com,9876551272,Surat,Gujarat,2023-01-02,Free,Biography
+C031,Ajay Rao,Male,31,ajay.rao31@email.com,9876550895,Surat,Gujarat,2023-07-02,Free,Biography
+C032,Pallavi Mishra,Female,23,pallavi.mishra32@email.com,9876544162,Chennai,Tamil Nadu,2023-06-12,Free,Self-Help
+C033,Neha Tiwari,Female,39,neha.tiwari33@email.com,9876551482,Visakhapatnam,Andhra Pradesh,2024-04-30,Silver,Education
+C034,Rahul Sharma,Male,41,rahul.sharma34@email.com,9876544562,Bangalore,Karnataka,2024-06-23,Platinum,Biography
+C035,Suresh Sharma,Male,27,suresh.sharma35@email.com,9876556422,Jaipur,Rajasthan,2023-08-06,Silver,Biography
+C036,Swathi Das,Female,19,swathi.das36@email.com,9876551592,Chandigarh,Punjab,2023-05-15,Platinum,History
+C037,Madhuri Singh,Female,34,madhuri.singh37@email.com,9876556729,Indore,Madhya Pradesh,2023-06-05,Free,Biography
+C038,Kavya Tiwari,Female,23,kavya.tiwari38@email.com,9876544638,Hyderabad,Telangana,2023-06-03,Platinum,Education
+C039,Arun Reddy,Male,34,arun.reddy39@email.com,9876558200,Kolkata,West Bengal,2024-06-14,Platinum,Biography
+C040,Arun Reddy,Male,26,arun.reddy40@email.com,9876541382,Kochi,Kerala,2023-07-15,Free,Education
+C041,Sudha Sharma,Female,28,sudha.sharma41@email.com,9876556565,Chennai,Tamil Nadu,2024-03-29,Silver,History
+C042,Pallavi Bose,Female,34,pallavi.bose42@email.com,9876548115,Indore,Madhya Pradesh,2024-05-04,Gold,Education
+C043,Aakash Singh,Male,30,aakash.singh43@email.com,9876554487,Chandigarh,Punjab,2023-05-05,Gold,Fiction
+C044,Manish Kumar,Male,43,manish.kumar44@email.com,9876544009,Pune,Maharashtra,2023-11-07,Silver,History
+C045,Neha Verma,Female,25,neha.verma45@email.com,9876543084,Mumbai,Maharashtra,2024-04-23,Platinum,Business
+C046,Ravi Gupta,Male,30,ravi.gupta46@email.com,9876551112,Chandigarh,Punjab,2024-06-11,Platinum,Self-Help
+C047,Ananya Kumar,Female,28,ananya.kumar47@email.com,9876558155,Ahmedabad,Gujarat,2023-01-20,Platinum,Business
+C048,Ajay Pillai,Male,34,ajay.pillai48@email.com,9876542106,Patna,Bihar,2023-10-30,Free,Biography
+C049,Kiran Kumar,Male,19,kiran.kumar49@email.com,9876545949,Jaipur,Rajasthan,2023-10-06,Gold,Biography
+C050,Manish Verma,Male,35,manish.verma50@email.com,9876556868,Bhopal,Madhya Pradesh,2023-06-02,Platinum,History
+C051,Anjali Verma,Female,31,anjali.verma51@email.com,9876542372,Vijayawada,Andhra Pradesh,2023-07-07,Gold,Fiction
+C052,Deepak Kumar,Male,20,deepak.kumar52@email.com,9876548665,Visakhapatnam,Andhra Pradesh,2023-08-16,Free,Business
+C053,Nikhil Das,Male,37,nikhil.das53@email.com,9876544234,Chandigarh,Punjab,2023-10-02,Free,Education
+C054,Kiran Gupta,Male,23,kiran.gupta54@email.com,9876546611,Jaipur,Rajasthan,2023-02-21,Gold,History
+C055,Madhuri Rao,Female,34,madhuri.rao55@email.com,9876545829,Lucknow,Uttar Pradesh,2024-04-01,Gold,Technology
+C056,Deepak Reddy,Male,41,deepak.reddy56@email.com,9876556569,Hyderabad,Telangana,2023-01-19,Silver,Education
+C057,Pooja Mehta,Female,39,pooja.mehta57@email.com,9876556220,Bangalore,Karnataka,2024-03-18,Platinum,Education
+C058,Divya Nair,Female,44,divya.nair58@email.com,9876544578,Kolkata,West Bengal,2023-07-23,Platinum,Technology
+C059,Rohit Sharma,Male,31,rohit.sharma59@email.com,9876545349,Chennai,Tamil Nadu,2023-09-19,Free,Fiction
+C060,Madhuri Joshi,Female,40,madhuri.joshi60@email.com,9876549602,Visakhapatnam,Andhra Pradesh,2023-09-06,Free,Business

@@ -1,0 +1,10 @@
+Return_Id,Order_Id,Customer_Id,Customer_Name,Book_Id,Book_Title,Category,Purchase_Date,Return_Date,Days_To_Return,Return_Reason,Original_Amount_Inr,Refund_Amount_Inr,Refund_Method,Refund_Status,Return_Condition
+RET0001,1026,C049,Kiran Kumar,B104,Rich Dad Poor Dad,Business,2025-01-26,2025-01-31,5,Changed my mind,427.5,427.5,Store Credit,Processed,Acceptable
+RET0002,1143,C013,Rekha Gupta,B109,Wings of Fire,Biography,2025-01-27,2025-02-11,15,Changed my mind,560.0,560.0,Original Payment,Rejected,Damaged
+RET0003,1099,C058,Divya Nair,B102,The Alchemist,Self-Help,2025-02-03,2025-02-10,7,Accidental purchase,1196.0,1196.0,Original Payment,Rejected,Acceptable
+RET0004,1078,C026,Kavya Iyer,B117,Think and Grow Rich,Business,2025-02-10,2025-02-15,5,Damaged on arrival,1136.2,1136.2,Bank Transfer,Processed,Good
+RET0005,1058,C005,Sachin Joshi,B113,Sapiens,History,2025-03-06,2025-03-14,8,Not as described,1018.3,1018.3,Original Payment,Rejected,Damaged
+RET0006,1102,C009,Lakshmi Tiwari,B107,SQL for Beginners,Technology,2025-04-04,2025-04-12,8,Accidental purchase,2600.0,2600.0,Bank Transfer,Processed,Damaged
+RET0007,1029,C016,Rekha Mishra,B101,Harry Potter and the Sorcerer's Stone,Fiction,2025-04-16,2025-04-29,13,Not as described,1497.0,1497.0,Store Credit,Rejected,Good
+RET0008,1126,C021,Sachin Singh,B111,Deep Work,Self-Help,2025-04-19,2025-04-26,7,Changed my mind,1647.0,1482.3,Original Payment,Pending,Damaged
+RET0009,1035,C012,Arjun Joshi,B108,Machine Learning Essentials,Technology,2025-05-05,2025-05-08,3,Duplicate order,3196.8,3196.8,Store Credit,Rejected,Good

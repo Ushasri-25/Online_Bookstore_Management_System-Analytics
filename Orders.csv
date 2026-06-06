@@ -1,0 +1,151 @@
+Order_Id,Order_Date,Customer_Id,Book_Id,Quantity_Ordered,Total_Amount_Inr,Payment_Method,Payment_Status,Order_Status,Coupon_Used
+1082,2025-01-01,C012,B101,4,1796.4,Credit Card,Success,Delivered,No Coupon
+1036,2025-01-07,C004,B107,2,1170,UPI,Success,Delivered,WELCOME20
+1087,2025-01-07,C051,B105,1,594.15,Wallet,Success,Delivered,WELCOME20
+1128,2025-01-08,C040,B124,4,1996,Net Banking,Success,Delivered,SAVE10
+1001,2025-01-10,C001,B101,2,948.1,UPI,Success,Delivered,No Coupon
+1024,2025-01-11,C036,B125,1,899,Credit Card,Success,Delivered,No Coupon
+1079,2025-01-11,C047,B107,1,520,Debit Card,Failed,Cancelled,SAVE10
+1044,2025-01-11,C050,B113,4,2396,Net Banking,Success,Delivered,SAVE10
+1002,2025-01-12,C002,B102,1,299,Credit Card,Success,Delivered,SUMMER15
+1106,2025-01-12,C011,B101,1,424.15,UPI,Success,Delivered,WELCOME20
+1093,2025-01-13,C050,B117,3,807.3,Cash on Delivery,Success,Delivered,No Coupon
+1131,2025-01-14,C013,B110,1,379.05,Net Banking,Success,Delivered,No Coupon
+1107,2025-01-15,C016,B106,1,799,Cash on Delivery,Success,Processing,No Coupon
+1003,2025-01-15,C003,B105,1,629.1,Net Banking,Success,Delivered,SUMMER15
+1066,2025-01-17,C036,B116,4,1396,Net Banking,Success,Delivered,WELCOME20
+1045,2025-01-17,C017,B107,3,1852.5,Debit Card,Success,Delivered,No Coupon
+1074,2025-01-18,C034,B106,1,719.1,Net Banking,Success,Delivered,SUMMER15
+1004,2025-01-18,C004,B103,2,1138.1,UPI,Success,Delivered,SAVE10
+1033,2025-01-18,C048,B117,2,538.2,Credit Card,Success,Delivered,WELCOME20
+1005,2025-01-20,C005,B104,1,450,Debit Card,Success,Delivered,No Coupon
+1115,2025-01-22,C042,B107,1,650,Debit Card,Success,Delivered,No Coupon
+1067,2025-01-24,C041,B118,2,1350,Wallet,Success,Delivered,No Coupon
+1016,2025-01-24,C022,B118,3,2250,Debit Card,Success,Delivered,No Coupon
+1006,2025-01-25,C006,B108,1,849.15,Credit Card,Success,Delivered,WELCOME20
+1026,2025-01-26,C049,B104,1,427.5,Cash on Delivery,Success,Returned,No Coupon
+1143,2025-01-27,C013,B109,2,560,UPI,Success,Returned,No Coupon
+1120,2025-01-28,C002,B104,2,855,Credit Card,Success,Delivered,SAVE10
+1007,2025-02-01,C007,B107,2,1170,UPI,Success,Delivered,SAVE10
+1025,2025-02-02,C046,B110,3,1017.45,Wallet,Success,Delivered,No Coupon
+1140,2025-02-02,C038,B108,3,2697.3,Wallet,Success,Delivered,No Coupon
+1011,2025-02-02,C004,B118,2,1350,Net Banking,Success,Delivered,SUMMER15
+1099,2025-02-03,C058,B102,4,1196,Cash on Delivery,Success,Returned,SAVE10
+1125,2025-02-03,C031,B104,1,360,Credit Card,Failed,Cancelled,SUMMER15
+1008,2025-02-05,C008,B103,1,599,Credit Card,Success,Delivered,No Coupon
+1147,2025-02-06,C030,B101,3,1272.45,Wallet,Failed,Cancelled,No Coupon
+1108,2025-02-06,C043,B107,4,2600,Cash on Delivery,Success,Shipped,No Coupon
+1078,2025-02-10,C026,B117,4,1136.2,UPI,Success,Returned,WELCOME20
+1051,2025-02-10,C013,B113,2,1078.2,UPI,Success,Delivered,No Coupon
+1009,2025-02-10,C009,B101,1,474.05,Debit Card,Success,Delivered,No Coupon
+1139,2025-02-13,C048,B111,4,1976.4,Wallet,Pending,Pending,SUMMER15
+1112,2025-02-14,C042,B115,2,798,Debit Card,Success,Delivered,No Coupon
+1083,2025-02-15,C050,B115,4,1436.4,UPI,Success,Delivered,WELCOME20
+1096,2025-02-15,C029,B108,1,949.05,Cash on Delivery,Success,Delivered,SUMMER15
+1010,2025-02-15,C010,B106,2,1438.2,Credit Card,Success,Delivered,No Coupon
+1049,2025-02-16,C060,B116,1,279.2,Debit Card,Success,Delivered,No Coupon
+1061,2025-02-18,C008,B102,2,598,Debit Card,Success,Delivered,WELCOME20
+1042,2025-02-20,C046,B116,3,889.95,Net Banking,Success,Delivered,SUMMER15
+1070,2025-02-22,C047,B113,1,539.1,Credit Card,Success,Shipped,No Coupon
+1053,2025-02-23,C040,B103,1,539.1,Net Banking,Success,Shipped,No Coupon
+1034,2025-02-26,C015,B115,3,1137.15,UPI,Success,Delivered,No Coupon
+1101,2025-02-27,C023,B118,4,2550,Debit Card,Failed,Cancelled,No Coupon
+1031,2025-02-28,C028,B112,4,1996,Wallet,Success,Shipped,SUMMER15
+1137,2025-03-01,C025,B121,4,1400,Cash on Delivery,Success,Delivered,SUMMER15
+1054,2025-03-01,C029,B106,2,1438.2,Net Banking,Success,Delivered,No Coupon
+1057,2025-03-02,C012,B108,2,1898.1,Cash on Delivery,Success,Delivered,SUMMER15
+1148,2025-03-04,C001,B124,4,1596.8,Cash on Delivery,Success,Delivered,WELCOME20
+1123,2025-03-05,C025,B104,2,900,UPI,Success,Delivered,SAVE10
+1094,2025-03-06,C045,B104,4,1440,Debit Card,Success,Processing,SUMMER15
+1058,2025-03-06,C005,B113,2,1018.3,Cash on Delivery,Success,Returned,No Coupon
+1056,2025-03-07,C018,B112,3,1497,Net Banking,Success,Shipped,WELCOME20
+1062,2025-03-08,C029,B120,1,449,Wallet,Success,Delivered,WELCOME20
+1040,2025-03-13,C001,B103,1,569.05,Net Banking,Success,Delivered,No Coupon
+1145,2025-03-13,C041,B104,2,810,Net Banking,Success,Delivered,SAVE10
+1092,2025-03-13,C011,B121,3,945,Credit Card,Success,Delivered,SAVE10
+1088,2025-03-15,C009,B116,2,558.4,Wallet,Success,Delivered,SAVE10
+1144,2025-03-19,C010,B105,3,1887.3,Debit Card,Success,Delivered,SAVE10
+1141,2025-03-19,C013,B109,2,560,Credit Card,Success,Delivered,No Coupon
+1136,2025-03-19,C024,B107,3,1755,Cash on Delivery,Success,Delivered,WELCOME20
+1068,2025-03-20,C019,B122,4,1196,Debit Card,Success,Shipped,No Coupon
+1037,2025-03-22,C026,B115,1,399,Credit Card,Success,Delivered,WELCOME20
+1050,2025-03-23,C016,B111,4,2086.2,Cash on Delivery,Success,Delivered,No Coupon
+1091,2025-03-23,C033,B108,3,2997,Credit Card,Success,Delivered,No Coupon
+1116,2025-03-25,C013,B106,2,1438.2,Debit Card,Success,Processing,No Coupon
+1052,2025-03-25,C036,B118,2,1350,UPI,Success,Delivered,SUMMER15
+1113,2025-03-27,C003,B104,3,1080,UPI,Failed,Cancelled,SUMMER15
+1018,2025-03-28,C025,B109,1,315,Debit Card,Success,Delivered,WELCOME20
+1063,2025-03-29,C003,B112,2,998,Credit Card,Success,Shipped,SUMMER15
+1105,2025-03-31,C053,B118,4,2550,Cash on Delivery,Success,Delivered,WELCOME20
+1032,2025-04-03,C046,B114,4,1800,UPI,Pending,Pending,SUMMER15
+1102,2025-04-04,C009,B107,4,2600,Credit Card,Success,Returned,WELCOME20
+1084,2025-04-04,C023,B114,1,405,Cash on Delivery,Success,Delivered,No Coupon
+1122,2025-04-04,C055,B119,2,678.3,Wallet,Success,Delivered,No Coupon
+1073,2025-04-05,C037,B120,2,898,Debit Card,Success,Delivered,WELCOME20
+1127,2025-04-05,C004,B123,3,1017.45,Cash on Delivery,Success,Delivered,SUMMER15
+1039,2025-04-06,C047,B113,3,1617.3,Credit Card,Success,Shipped,SAVE10
+1111,2025-04-07,C035,B101,4,1596.8,Net Banking,Success,Delivered,No Coupon
+1041,2025-04-08,C049,B107,3,1852.5,Net Banking,Success,Delivered,SAVE10
+1081,2025-04-10,C016,B114,3,1215,Cash on Delivery,Failed,Cancelled,No Coupon
+1135,2025-04-12,C007,B113,1,539.1,Wallet,Failed,Cancelled,SAVE10
+1104,2025-04-13,C051,B109,3,1050,UPI,Failed,Cancelled,No Coupon
+1071,2025-04-14,C008,B103,3,1617.3,Credit Card,Pending,Pending,WELCOME20
+1029,2025-04-16,C016,B101,3,1497,UPI,Success,Returned,No Coupon
+1017,2025-04-16,C013,B101,4,1796.4,Wallet,Success,Delivered,WELCOME20
+1069,2025-04-17,C037,B112,4,1996,Debit Card,Success,Delivered,No Coupon
+1126,2025-04-19,C021,B111,3,1647,Debit Card,Success,Returned,SUMMER15
+1150,2025-04-21,C008,B115,3,1137.15,Wallet,Failed,Cancelled,No Coupon
+1118,2025-04-22,C001,B101,2,848.3,Debit Card,Success,Processing,WELCOME20
+1060,2025-04-25,C057,B108,3,2997,Debit Card,Success,Processing,WELCOME20
+1020,2025-04-25,C026,B121,4,1330,UPI,Success,Delivered,SAVE10
+1103,2025-04-26,C046,B105,1,699,Wallet,Success,Delivered,No Coupon
+1080,2025-04-27,C025,B120,3,1077.6,Net Banking,Success,Delivered,No Coupon
+1048,2025-04-30,C031,B123,4,1516.2,Net Banking,Success,Delivered,WELCOME20
+1022,2025-04-30,C060,B117,4,1196,UPI,Failed,Cancelled,WELCOME20
+1043,2025-05-02,C024,B124,1,399.2,Net Banking,Success,Delivered,No Coupon
+1021,2025-05-02,C028,B123,4,1596,UPI,Success,Shipped,No Coupon
+1077,2025-05-02,C055,B107,2,1105,Credit Card,Pending,Pending,SAVE10
+1075,2025-05-04,C009,B102,3,897,Cash on Delivery,Success,Delivered,SAVE10
+1035,2025-05-05,C012,B108,4,3196.8,UPI,Success,Returned,No Coupon
+1134,2025-05-06,C050,B103,1,479.2,Debit Card,Success,Processing,SUMMER15
+1132,2025-05-07,C045,B106,3,2037.45,Debit Card,Success,Delivered,SUMMER15
+1014,2025-05-08,C014,B117,2,538.2,Debit Card,Success,Processing,No Coupon
+1090,2025-05-09,C010,B109,4,1400,Cash on Delivery,Success,Delivered,No Coupon
+1086,2025-05-11,C050,B124,1,499,Cash on Delivery,Success,Delivered,No Coupon
+1142,2025-05-14,C021,B120,3,1347,Credit Card,Failed,Cancelled,SUMMER15
+1138,2025-05-14,C038,B111,2,988.2,Wallet,Success,Processing,No Coupon
+1023,2025-05-14,C010,B105,1,559.2,Wallet,Success,Delivered,SAVE10
+1038,2025-05-15,C012,B121,4,1400,Debit Card,Success,Processing,No Coupon
+1019,2025-05-16,C044,B117,2,598,Debit Card,Success,Delivered,No Coupon
+1015,2025-05-21,C028,B105,2,1398,UPI,Pending,Pending,WELCOME20
+1072,2025-05-22,C001,B102,2,478.4,Net Banking,Success,Shipped,SAVE10
+1013,2025-05-23,C020,B116,4,1396,Credit Card,Success,Delivered,SAVE10
+1100,2025-05-26,C004,B101,3,1422.15,UPI,Success,Shipped,No Coupon
+1130,2025-05-28,C046,B103,3,1797,Net Banking,Success,Delivered,No Coupon
+1095,2025-05-28,C025,B112,2,948.1,Debit Card,Success,Processing,SAVE10
+1119,2025-05-30,C026,B120,1,381.65,Credit Card,Success,Delivered,SAVE10
+1047,2025-06-02,C047,B125,1,899,Credit Card,Success,Processing,SAVE10
+1027,2025-06-03,C017,B108,1,999,Cash on Delivery,Success,Delivered,No Coupon
+1089,2025-06-06,C054,B112,3,1497,Debit Card,Success,Delivered,No Coupon
+1098,2025-06-07,C010,B110,4,1436.4,Cash on Delivery,Success,Processing,SUMMER15
+1076,2025-06-08,C058,B123,2,638.4,Credit Card,Success,Delivered,No Coupon
+1065,2025-06-08,C024,B106,3,2397,Credit Card,Success,Delivered,No Coupon
+1110,2025-06-10,C005,B110,1,319.2,Net Banking,Success,Shipped,No Coupon
+1117,2025-06-11,C016,B113,4,2156.4,Cash on Delivery,Failed,Cancelled,No Coupon
+1124,2025-06-12,C055,B125,1,719.2,Wallet,Success,Shipped,SUMMER15
+1085,2025-06-12,C003,B102,2,598,Wallet,Success,Processing,SUMMER15
+1030,2025-06-15,C057,B122,4,1196,Debit Card,Success,Delivered,No Coupon
+1109,2025-06-15,C042,B117,4,1016.6,Credit Card,Success,Delivered,SUMMER15
+1028,2025-06-15,C018,B111,2,988.2,Cash on Delivery,Success,Delivered,No Coupon
+1064,2025-06-16,C003,B120,2,898,Debit Card,Success,Delivered,No Coupon
+1059,2025-06-17,C052,B104,4,1800,UPI,Success,Delivered,No Coupon
+1149,2025-06-17,C043,B124,2,798.4,Credit Card,Success,Shipped,No Coupon
+1012,2025-06-17,C020,B109,3,945,Wallet,Success,Processing,WELCOME20
+1097,2025-06-19,C041,B119,3,957.6,UPI,Success,Delivered,WELCOME20
+1055,2025-06-20,C035,B125,1,854.05,Debit Card,Success,Delivered,No Coupon
+1114,2025-06-23,C041,B118,4,2400,Cash on Delivery,Success,Delivered,SUMMER15
+1046,2025-06-26,C003,B109,3,997.5,Debit Card,Failed,Cancelled,SAVE10
+1146,2025-06-27,C026,B114,2,765,Wallet,Success,Shipped,SUMMER15
+1121,2025-06-27,C003,B105,1,559.2,UPI,Success,Delivered,SAVE10
+1133,2025-06-29,C053,B107,2,1170,Credit Card,Success,Delivered,No Coupon
+1129,2025-06-30,C023,B116,1,296.65,Cash on Delivery,Success,Shipped,WELCOME20

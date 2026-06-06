@@ -1,0 +1,26 @@
+Book_Id,Book_Title,Author,Category,Publication_Year,Publisher,Language,Pages,Unit_Price_Inr,Discount_Pct,Sale_Price_Inr,Stock_Quantity,Avg_Rating,Num_Reviews,Is_Bestseller
+B101,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fiction,1997,Scholastic India,English,243,499,5,474.05,33,3.9,785,Yes
+B102,The Alchemist,Paulo Coelho,Self-Help,1988,Scholastic India,English,553,299,15,254.15,30,3.5,2542,No
+B103,Atomic Habits,James Clear,Self-Help,2018,Penguin India,Tamil,691,599,5,569.05,44,4.8,1321,No
+B104,Rich Dad Poor Dad,Robert Kiyosaki,Business,1997,Westland Books,English,656,450,20,360,67,3.7,1235,Yes
+B105,Python Crash Course,Eric Matthes,Technology,2022,Bloomsbury India,Hindi,667,699,20,559.2,10,3.7,4340,No
+B106,Data Analytics Guide,Dr. Anil Kumar,Education,2023,Penguin India,Tamil,385,799,20,639.2,43,3.6,392,Yes
+B107,SQL for Beginners,Vivek Sharma,Technology,2021,Penguin India,Hindi,612,650,10,585,56,4.3,204,No
+B108,Machine Learning Essentials,Dr. Priya Nair,Technology,2024,Bloomsbury India,English,651,999,20,799.2,52,3.9,3793,Yes
+B109,Wings of Fire,A.P.J. Abdul Kalam,Biography,1999,Scholastic India,English,688,350,20,280,80,3.6,3931,Yes
+B110,The Secret,Rhonda Byrne,Self-Help,2006,Rupa Publications,English,360,399,0,399,51,3.8,3821,Yes
+B111,Deep Work,Cal Newport,Self-Help,2016,Penguin India,Hindi,444,549,15,466.65,41,4.7,1674,Yes
+B112,The Psychology of Money,Morgan Housel,Business,2020,Harper Collins India,English,410,499,20,399.2,14,4.5,2543,No
+B113,Sapiens,Yuval Noah Harari,History,2011,Harper Collins India,English,643,599,20,479.2,49,3.6,2251,No
+B114,Zero to One,Peter Thiel,Business,2014,Bloomsbury India,English,651,450,0,450,37,3.9,4281,Yes
+B115,The 5 AM Club,Robin Sharma,Self-Help,2018,Westland Books,Hindi,271,399,15,339.15,55,5,4548,Yes
+B116,Ikigai,Hector Garcia,Self-Help,2016,Penguin India,Hindi,167,349,10,314.1,33,3.9,676,No
+B117,Think and Grow Rich,Napoleon Hill,Business,1937,Rupa Publications,Hindi,364,299,15,254.15,10,4.9,1776,Yes
+B118,Data Structures in C++,Rajesh Kumar,Technology,2020,Penguin India,English,686,750,20,600,52,3.9,2995,Yes
+B119,God of Small Things,Arundhati Roy,Fiction,1997,Bloomsbury India,Tamil,436,399,20,319.2,58,4.8,3041,Yes
+B120,The White Tiger,Aravind Adiga,Fiction,2008,Westland Books,Hindi,175,449,15,381.65,20,3.7,4077,No
+B121,Train to Pakistan,Khushwant Singh,Fiction,1956,Westland Books,English,294,350,15,297.5,70,4.1,3131,Yes
+B122,Two States,Chetan Bhagat,Fiction,2009,Rupa Publications,English,482,299,0,299,45,4.6,3312,Yes
+B123,The Immortals of Meluha,Amish Tripathi,Fiction,2010,Bloomsbury India,English,446,399,5,379.05,74,3.9,582,Yes
+B124,The Subtle Art of Not Giving a F*ck,Mark Manson,Self-Help,2016,Scholastic India,English,519,499,15,424.15,93,4.9,2304,Yes
+B125,Digital Marketing Masterclass,Sanjay Mehta,Education,2023,Penguin India,English,442,899,10,809.1,35,4.5,1269,Yes

@@ -1,0 +1,201 @@
+Review_Id,Book_Id,Book_Title,Category,Customer_Id,Customer_Name,Rating,Review_Text,Review_Date,Helpful_Votes,Verified_Purchase
+REV0001,B101,Harry Potter and the Sorcerer's Stone,Fiction,C005,Sachin Joshi,4,Engaging and informative.,18-04-2025,90,Yes
+REV0002,B104,Rich Dad Poor Dad,Business,C015,Sunita Das,3,Mixed feelings but okay overall.,19-03-2025,134,Yes
+REV0003,B113,Sapiens,History,C030,Nikhil Rao,1,Could not finish it.,24-02-2025,33,Yes
+REV0004,B121,Train to Pakistan,Fiction,C013,Rekha Gupta,4,"Good read, would recommend.",01-05-2025,57,Yes
+REV0005,B112,The Psychology of Money,Business,C043,Aakash Singh,5,Changed my perspective. A masterpiece.,13-06-2025,119,Yes
+REV0006,B125,Digital Marketing Masterclass,Education,C036,Swathi Das,1,Could not finish it.,16-06-2025,120,Yes
+REV0007,B108,Machine Learning Essentials,Technology,C018,Sudha Iyer,1,Poorly written.,30-06-2025,64,No
+REV0008,B122,Two States,Fiction,C012,Arjun Joshi,4,Really enjoyed it. Great read.,04-05-2025,71,Yes
+REV0009,B108,Machine Learning Essentials,Technology,C042,Pallavi Bose,2,Overhyped in my opinion.,19-03-2025,122,No
+REV0010,B114,Zero to One,Business,C040,Arun Reddy,3,"Average read, had its moments.",13-06-2025,92,Yes
+REV0011,B110,The Secret,Self-Help,C055,Madhuri Rao,1,Very disappointing.,09-04-2025,21,Yes
+REV0012,B105,Python Crash Course,Technology,C034,Rahul Sharma,4,"Good read, would recommend.",30-03-2025,3,Yes
+REV0013,B107,SQL for Beginners,Technology,C005,Sachin Joshi,5,Could not put it down. Superb!,17-06-2025,64,Yes
+REV0014,B119,God of Small Things,Fiction,C010,Neha Chauhan,4,"Well written, solid content.",01-03-2025,115,Yes
+REV0015,B105,Python Crash Course,Technology,C014,Neha Nair,3,"Not bad, not great.",14-04-2025,42,Yes
+REV0016,B122,Two States,Fiction,C058,Divya Nair,4,"Great book, slightly slow in middle.",21-05-2025,50,No
+REV0017,B123,The Immortals of Meluha,Fiction,C014,Neha Nair,4,Really enjoyed it. Great read.,16-05-2025,112,Yes
+REV0018,B118,Data Structures in C++,Technology,C008,Ravi Kumar,5,Changed my perspective. A masterpiece.,09-03-2025,59,Yes
+REV0019,B116,Ikigai,Self-Help,C032,Pallavi Mishra,5,Absolutely loved it! Highly recommend.,23-05-2025,123,No
+REV0020,B105,Python Crash Course,Technology,C045,Neha Verma,3,Decent but nothing too special.,06-05-2025,127,Yes
+REV0021,B118,Data Structures in C++,Technology,C039,Arun Reddy,1,Could not finish it.,02-01-2025,82,No
+REV0022,B123,The Immortals of Meluha,Fiction,C037,Madhuri Singh,5,Could not put it down. Superb!,08-05-2025,119,Yes
+REV0023,B114,Zero to One,Business,C027,Kartik Rao,5,Absolutely loved it! Highly recommend.,23-06-2025,46,Yes
+REV0024,B121,Train to Pakistan,Fiction,C042,Pallavi Bose,4,Really enjoyed it. Great read.,08-01-2025,11,Yes
+REV0025,B104,Rich Dad Poor Dad,Business,C033,Neha Tiwari,5,Changed my perspective. A masterpiece.,04-05-2025,36,Yes
+REV0026,B107,SQL for Beginners,Technology,C046,Ravi Gupta,5,One of the best books I've read.,17-04-2025,86,Yes
+REV0027,B122,Two States,Fiction,C024,Nikhil Verma,4,Engaging and informative.,29-03-2025,134,Yes
+REV0028,B110,The Secret,Self-Help,C028,Rekha Sharma,5,Changed my perspective. A masterpiece.,29-03-2025,64,Yes
+REV0029,B110,The Secret,Self-Help,C019,Sunita Mishra,1,Poorly written.,01-04-2025,103,Yes
+REV0030,B117,Think and Grow Rich,Business,C018,Sudha Iyer,3,Worth reading once.,10-05-2025,52,No
+REV0031,B104,Rich Dad Poor Dad,Business,C022,Kartik Mishra,3,Worth reading once.,19-02-2025,76,Yes
+REV0032,B119,God of Small Things,Fiction,C041,Sudha Sharma,2,Struggled to finish. Disappointing.,23-01-2025,102,No
+REV0033,B118,Data Structures in C++,Technology,C037,Madhuri Singh,5,Changed my perspective. A masterpiece.,13-01-2025,76,Yes
+REV0034,B101,Harry Potter and the Sorcerer's Stone,Fiction,C003,Arun Agarwal,1,Poorly written.,18-02-2025,15,No
+REV0035,B120,The White Tiger,Fiction,C010,Neha Chauhan,5,Must read for everyone!,10-06-2025,21,Yes
+REV0036,B102,The Alchemist,Self-Help,C043,Aakash Singh,2,Not my type of book.,12-06-2025,44,Yes
+REV0037,B122,Two States,Fiction,C012,Arjun Joshi,4,Engaging and informative.,10-01-2025,25,Yes
+REV0038,B112,The Psychology of Money,Business,C056,Deepak Reddy,4,"Great book, slightly slow in middle.",05-02-2025,143,Yes
+REV0039,B110,The Secret,Self-Help,C012,Arjun Joshi,3,"Average read, had its moments.",18-04-2025,81,Yes
+REV0040,B114,Zero to One,Business,C037,Madhuri Singh,4,"Good read, would recommend.",14-06-2025,13,No
+REV0041,B119,God of Small Things,Fiction,C034,Rahul Sharma,4,Really enjoyed it. Great read.,11-01-2025,107,No
+REV0042,B115,The 5 AM Club,Self-Help,C005,Sachin Joshi,4,Engaging and informative.,04-01-2025,39,No
+REV0043,B125,Digital Marketing Masterclass,Education,C027,Kartik Rao,5,Absolutely loved it! Highly recommend.,21-05-2025,21,No
+REV0044,B107,SQL for Beginners,Technology,C058,Divya Nair,3,"Average read, had its moments.",08-02-2025,109,Yes
+REV0045,B101,Harry Potter and the Sorcerer's Stone,Fiction,C044,Manish Kumar,3,"Average read, had its moments.",21-06-2025,22,Yes
+REV0046,B104,Rich Dad Poor Dad,Business,C009,Lakshmi Tiwari,4,Really enjoyed it. Great read.,01-05-2025,70,Yes
+REV0047,B115,The 5 AM Club,Self-Help,C047,Ananya Kumar,4,Really enjoyed it. Great read.,17-02-2025,93,Yes
+REV0048,B124,The Subtle Art of Not Giving a F*ck,Self-Help,C049,Kiran Kumar,3,Worth reading once.,22-01-2025,142,No
+REV0049,B115,The 5 AM Club,Self-Help,C043,Aakash Singh,5,Absolutely loved it! Highly recommend.,07-03-2025,8,Yes
+REV0050,B102,The Alchemist,Self-Help,C001,Neha Mishra,5,Must read for everyone!,16-06-2025,20,No
+REV0051,B110,The Secret,Self-Help,C020,Suresh Mehta,2,Expected more from this author.,03-06-2025,124,Yes
+REV0052,B111,Deep Work,Self-Help,C024,Nikhil Verma,4,Engaging and informative.,28-05-2025,120,Yes
+REV0053,B105,Python Crash Course,Technology,C052,Deepak Kumar,3,Worth reading once.,30-01-2025,41,No
+REV0054,B116,Ikigai,Self-Help,C025,Neha Das,4,"Great book, slightly slow in middle.",26-04-2025,145,Yes
+REV0055,B110,The Secret,Self-Help,C018,Sudha Iyer,3,"Not bad, not great.",16-01-2025,85,Yes
+REV0056,B105,Python Crash Course,Technology,C039,Arun Reddy,4,"Good read, would recommend.",21-03-2025,109,Yes
+REV0057,B113,Sapiens,History,C025,Neha Das,5,Changed my perspective. A masterpiece.,25-06-2025,59,No
+REV0058,B110,The Secret,Self-Help,C045,Neha Verma,4,"Great book, slightly slow in middle.",01-01-2025,67,Yes
+REV0059,B114,Zero to One,Business,C011,Riya Chauhan,5,Absolutely loved it! Highly recommend.,31-05-2025,73,Yes
+REV0060,B119,God of Small Things,Fiction,C010,Neha Chauhan,4,"Good read, would recommend.",12-03-2025,127,Yes
+REV0061,B118,Data Structures in C++,Technology,C006,Arun Kumar,5,Must read for everyone!,19-05-2025,124,No
+REV0062,B107,SQL for Beginners,Technology,C051,Anjali Verma,2,Overhyped in my opinion.,01-03-2025,14,No
+REV0063,B115,The 5 AM Club,Self-Help,C046,Ravi Gupta,5,Could not put it down. Superb!,22-02-2025,150,Yes
+REV0064,B113,Sapiens,History,C030,Nikhil Rao,5,Absolutely loved it! Highly recommend.,19-05-2025,137,Yes
+REV0065,B125,Digital Marketing Masterclass,Education,C005,Sachin Joshi,4,Engaging and informative.,01-03-2025,148,Yes
+REV0066,B117,Think and Grow Rich,Business,C021,Sachin Singh,4,"Good read, would recommend.",03-05-2025,150,Yes
+REV0067,B107,SQL for Beginners,Technology,C014,Neha Nair,5,Absolutely loved it! Highly recommend.,19-02-2025,46,Yes
+REV0068,B112,The Psychology of Money,Business,C037,Madhuri Singh,5,Could not put it down. Superb!,25-05-2025,103,Yes
+REV0069,B108,Machine Learning Essentials,Technology,C003,Arun Agarwal,5,Could not put it down. Superb!,07-05-2025,27,Yes
+REV0070,B121,Train to Pakistan,Fiction,C030,Nikhil Rao,3,Decent but nothing too special.,21-01-2025,80,Yes
+REV0071,B112,The Psychology of Money,Business,C018,Sudha Iyer,5,Must read for everyone!,13-05-2025,5,Yes
+REV0072,B102,The Alchemist,Self-Help,C014,Neha Nair,5,Changed my perspective. A masterpiece.,25-05-2025,150,Yes
+REV0073,B109,Wings of Fire,Biography,C060,Madhuri Joshi,4,Engaging and informative.,13-03-2025,24,No
+REV0074,B125,Digital Marketing Masterclass,Education,C038,Kavya Tiwari,4,"Well written, solid content.",05-06-2025,65,Yes
+REV0075,B111,Deep Work,Self-Help,C013,Rekha Gupta,1,Poorly written.,16-02-2025,21,Yes
+REV0076,B102,The Alchemist,Self-Help,C003,Arun Agarwal,5,Could not put it down. Superb!,23-05-2025,117,No
+REV0077,B103,Atomic Habits,Self-Help,C056,Deepak Reddy,5,Changed my perspective. A masterpiece.,03-06-2025,30,Yes
+REV0078,B109,Wings of Fire,Biography,C021,Sachin Singh,5,One of the best books I've read.,25-05-2025,22,No
+REV0079,B106,Data Analytics Guide,Education,C029,Pallavi Iyer,5,Could not put it down. Superb!,10-02-2025,60,Yes
+REV0080,B106,Data Analytics Guide,Education,C003,Arun Agarwal,3,Worth reading once.,07-03-2025,15,Yes
+REV0081,B102,The Alchemist,Self-Help,C017,Rahul Chauhan,4,Engaging and informative.,12-05-2025,14,Yes
+REV0082,B105,Python Crash Course,Technology,C021,Sachin Singh,3,Decent but nothing too special.,02-01-2025,76,No
+REV0083,B125,Digital Marketing Masterclass,Education,C042,Pallavi Bose,4,Engaging and informative.,27-01-2025,82,Yes
+REV0084,B109,Wings of Fire,Biography,C025,Neha Das,2,Overhyped in my opinion.,01-02-2025,123,No
+REV0085,B106,Data Analytics Guide,Education,C029,Pallavi Iyer,5,One of the best books I've read.,03-03-2025,3,No
+REV0086,B123,The Immortals of Meluha,Fiction,C059,Rohit Sharma,4,Really enjoyed it. Great read.,19-02-2025,40,Yes
+REV0087,B103,Atomic Habits,Self-Help,C060,Madhuri Joshi,4,"Great book, slightly slow in middle.",08-06-2025,35,No
+REV0088,B104,Rich Dad Poor Dad,Business,C060,Madhuri Joshi,2,Struggled to finish. Disappointing.,09-04-2025,19,No
+REV0089,B111,Deep Work,Self-Help,C021,Sachin Singh,5,Changed my perspective. A masterpiece.,01-03-2025,29,Yes
+REV0090,B105,Python Crash Course,Technology,C022,Kartik Mishra,5,Absolutely loved it! Highly recommend.,26-02-2025,46,No
+REV0091,B118,Data Structures in C++,Technology,C057,Pooja Mehta,4,Engaging and informative.,07-02-2025,38,Yes
+REV0092,B114,Zero to One,Business,C027,Kartik Rao,3,Decent but nothing too special.,05-03-2025,6,Yes
+REV0093,B119,God of Small Things,Fiction,C054,Kiran Gupta,5,Could not put it down. Superb!,17-03-2025,42,Yes
+REV0094,B116,Ikigai,Self-Help,C007,Ananya Mehta,3,Mixed feelings but okay overall.,23-03-2025,123,Yes
+REV0095,B105,Python Crash Course,Technology,C033,Neha Tiwari,5,One of the best books I've read.,15-01-2025,143,No
+REV0096,B110,The Secret,Self-Help,C008,Ravi Kumar,4,"Well written, solid content.",07-03-2025,93,No
+REV0097,B109,Wings of Fire,Biography,C016,Rekha Mishra,4,Really enjoyed it. Great read.,02-03-2025,99,Yes
+REV0098,B114,Zero to One,Business,C058,Divya Nair,4,Really enjoyed it. Great read.,11-02-2025,75,Yes
+REV0099,B121,Train to Pakistan,Fiction,C002,Venkat Rao,4,"Good read, would recommend.",24-04-2025,87,Yes
+REV0100,B115,The 5 AM Club,Self-Help,C001,Neha Mishra,3,Worth reading once.,15-05-2025,47,Yes
+REV0101,B114,Zero to One,Business,C003,Arun Agarwal,5,One of the best books I've read.,15-04-2025,70,Yes
+REV0102,B105,Python Crash Course,Technology,C054,Kiran Gupta,4,"Good read, would recommend.",16-02-2025,58,Yes
+REV0103,B107,SQL for Beginners,Technology,C039,Arun Reddy,5,Absolutely loved it! Highly recommend.,21-01-2025,126,Yes
+REV0104,B106,Data Analytics Guide,Education,C014,Neha Nair,5,Must read for everyone!,05-02-2025,49,Yes
+REV0105,B107,SQL for Beginners,Technology,C001,Neha Mishra,2,Below average content.,17-01-2025,104,Yes
+REV0106,B117,Think and Grow Rich,Business,C052,Deepak Kumar,5,Could not put it down. Superb!,30-03-2025,72,No
+REV0107,B103,Atomic Habits,Self-Help,C001,Neha Mishra,4,Engaging and informative.,15-04-2025,34,Yes
+REV0108,B108,Machine Learning Essentials,Technology,C012,Arjun Joshi,5,Could not put it down. Superb!,25-05-2025,9,Yes
+REV0109,B123,The Immortals of Meluha,Fiction,C024,Nikhil Verma,4,"Good read, would recommend.",28-05-2025,1,Yes
+REV0110,B117,Think and Grow Rich,Business,C060,Madhuri Joshi,4,"Good read, would recommend.",25-04-2025,18,Yes
+REV0111,B112,The Psychology of Money,Business,C046,Ravi Gupta,5,Could not put it down. Superb!,04-03-2025,97,Yes
+REV0112,B110,The Secret,Self-Help,C056,Deepak Reddy,2,Not my type of book.,28-01-2025,114,Yes
+REV0113,B117,Think and Grow Rich,Business,C052,Deepak Kumar,4,"Well written, solid content.",18-05-2025,5,Yes
+REV0114,B103,Atomic Habits,Self-Help,C015,Sunita Das,4,"Well written, solid content.",08-06-2025,42,Yes
+REV0115,B110,The Secret,Self-Help,C017,Rahul Chauhan,1,Very disappointing.,23-05-2025,4,Yes
+REV0116,B123,The Immortals of Meluha,Fiction,C048,Ajay Pillai,5,Could not put it down. Superb!,19-02-2025,4,No
+REV0117,B117,Think and Grow Rich,Business,C016,Rekha Mishra,4,Engaging and informative.,29-06-2025,26,Yes
+REV0118,B104,Rich Dad Poor Dad,Business,C046,Ravi Gupta,5,Absolutely loved it! Highly recommend.,15-02-2025,69,Yes
+REV0119,B115,The 5 AM Club,Self-Help,C032,Pallavi Mishra,4,"Good read, would recommend.",30-05-2025,71,Yes
+REV0120,B104,Rich Dad Poor Dad,Business,C008,Ravi Kumar,4,"Well written, solid content.",14-04-2025,138,Yes
+REV0121,B108,Machine Learning Essentials,Technology,C010,Neha Chauhan,5,Must read for everyone!,21-06-2025,118,No
+REV0122,B106,Data Analytics Guide,Education,C053,Nikhil Das,2,Not my type of book.,05-01-2025,107,Yes
+REV0123,B113,Sapiens,History,C004,Sneha Nair,2,Overhyped in my opinion.,03-04-2025,102,Yes
+REV0124,B111,Deep Work,Self-Help,C046,Ravi Gupta,5,Must read for everyone!,22-04-2025,82,No
+REV0125,B118,Data Structures in C++,Technology,C004,Sneha Nair,4,"Good read, would recommend.",25-03-2025,37,Yes
+REV0126,B108,Machine Learning Essentials,Technology,C056,Deepak Reddy,4,Really enjoyed it. Great read.,19-04-2025,93,Yes
+REV0127,B117,Think and Grow Rich,Business,C012,Arjun Joshi,5,Could not put it down. Superb!,18-01-2025,110,Yes
+REV0128,B117,Think and Grow Rich,Business,C043,Aakash Singh,4,"Well written, solid content.",06-01-2025,35,No
+REV0129,B113,Sapiens,History,C050,Manish Verma,5,Absolutely loved it! Highly recommend.,27-04-2025,10,Yes
+REV0130,B121,Train to Pakistan,Fiction,C040,Arun Reddy,5,Must read for everyone!,10-03-2025,69,Yes
+REV0131,B120,The White Tiger,Fiction,C007,Ananya Mehta,4,Really enjoyed it. Great read.,06-03-2025,133,Yes
+REV0132,B114,Zero to One,Business,C016,Rekha Mishra,2,Overhyped in my opinion.,11-01-2025,28,Yes
+REV0133,B112,The Psychology of Money,Business,C042,Pallavi Bose,3,"Average read, had its moments.",12-02-2025,15,Yes
+REV0134,B103,Atomic Habits,Self-Help,C030,Nikhil Rao,5,Must read for everyone!,01-06-2025,37,No
+REV0135,B104,Rich Dad Poor Dad,Business,C033,Neha Tiwari,4,"Great book, slightly slow in middle.",03-02-2025,104,Yes
+REV0136,B109,Wings of Fire,Biography,C016,Rekha Mishra,3,"Not bad, not great.",23-01-2025,73,No
+REV0137,B120,The White Tiger,Fiction,C045,Neha Verma,4,"Well written, solid content.",26-05-2025,98,Yes
+REV0138,B118,Data Structures in C++,Technology,C046,Ravi Gupta,5,Changed my perspective. A masterpiece.,04-04-2025,140,Yes
+REV0139,B120,The White Tiger,Fiction,C031,Ajay Rao,3,Worth reading once.,01-05-2025,7,Yes
+REV0140,B111,Deep Work,Self-Help,C015,Sunita Das,5,Must read for everyone!,18-02-2025,139,No
+REV0141,B119,God of Small Things,Fiction,C026,Kavya Iyer,3,Worth reading once.,04-01-2025,41,Yes
+REV0142,B111,Deep Work,Self-Help,C036,Swathi Das,5,Changed my perspective. A masterpiece.,25-03-2025,69,Yes
+REV0143,B107,SQL for Beginners,Technology,C019,Sunita Mishra,4,Really enjoyed it. Great read.,15-01-2025,40,Yes
+REV0144,B120,The White Tiger,Fiction,C056,Deepak Reddy,1,Poorly written.,31-03-2025,15,No
+REV0145,B115,The 5 AM Club,Self-Help,C023,Kiran Chauhan,5,Must read for everyone!,28-01-2025,57,Yes
+REV0146,B114,Zero to One,Business,C022,Kartik Mishra,4,"Great book, slightly slow in middle.",21-06-2025,35,Yes
+REV0147,B120,The White Tiger,Fiction,C040,Arun Reddy,5,Must read for everyone!,12-03-2025,24,No
+REV0148,B109,Wings of Fire,Biography,C051,Anjali Verma,4,"Well written, solid content.",11-06-2025,105,Yes
+REV0149,B101,Harry Potter and the Sorcerer's Stone,Fiction,C027,Kartik Rao,2,Below average content.,21-05-2025,30,No
+REV0150,B113,Sapiens,History,C037,Madhuri Singh,2,Not my type of book.,08-02-2025,71,Yes
+REV0151,B113,Sapiens,History,C055,Madhuri Rao,3,Mixed feelings but okay overall.,26-04-2025,73,Yes
+REV0152,B110,The Secret,Self-Help,C023,Kiran Chauhan,3,"Not bad, not great.",11-04-2025,142,No
+REV0153,B121,Train to Pakistan,Fiction,C021,Sachin Singh,2,Not my type of book.,02-01-2025,97,No
+REV0154,B110,The Secret,Self-Help,C012,Arjun Joshi,1,Would not recommend.,18-05-2025,37,No
+REV0155,B119,God of Small Things,Fiction,C025,Neha Das,5,One of the best books I've read.,29-05-2025,22,Yes
+REV0156,B111,Deep Work,Self-Help,C054,Kiran Gupta,2,Expected more from this author.,05-06-2025,83,Yes
+REV0157,B114,Zero to One,Business,C058,Divya Nair,4,Really enjoyed it. Great read.,03-01-2025,12,Yes
+REV0158,B119,God of Small Things,Fiction,C058,Divya Nair,2,Overhyped in my opinion.,08-05-2025,137,Yes
+REV0159,B118,Data Structures in C++,Technology,C040,Arun Reddy,3,"Not bad, not great.",22-04-2025,132,No
+REV0160,B113,Sapiens,History,C030,Nikhil Rao,5,Absolutely loved it! Highly recommend.,02-04-2025,89,No
+REV0161,B101,Harry Potter and the Sorcerer's Stone,Fiction,C044,Manish Kumar,5,Must read for everyone!,18-01-2025,58,Yes
+REV0162,B114,Zero to One,Business,C024,Nikhil Verma,4,Engaging and informative.,09-05-2025,143,Yes
+REV0163,B107,SQL for Beginners,Technology,C027,Kartik Rao,1,Poorly written.,05-05-2025,112,Yes
+REV0164,B123,The Immortals of Meluha,Fiction,C034,Rahul Sharma,5,One of the best books I've read.,24-01-2025,92,Yes
+REV0165,B112,The Psychology of Money,Business,C005,Sachin Joshi,1,Total waste of money.,21-03-2025,44,Yes
+REV0166,B121,Train to Pakistan,Fiction,C058,Divya Nair,4,"Great book, slightly slow in middle.",17-03-2025,130,No
+REV0167,B121,Train to Pakistan,Fiction,C011,Riya Chauhan,4,"Great book, slightly slow in middle.",15-05-2025,130,Yes
+REV0168,B117,Think and Grow Rich,Business,C058,Divya Nair,5,Changed my perspective. A masterpiece.,18-02-2025,46,Yes
+REV0169,B121,Train to Pakistan,Fiction,C037,Madhuri Singh,5,Absolutely loved it! Highly recommend.,04-06-2025,90,Yes
+REV0170,B123,The Immortals of Meluha,Fiction,C027,Kartik Rao,4,Really enjoyed it. Great read.,03-01-2025,78,Yes
+REV0171,B110,The Secret,Self-Help,C026,Kavya Iyer,4,"Good read, would recommend.",26-01-2025,3,Yes
+REV0172,B107,SQL for Beginners,Technology,C012,Arjun Joshi,5,Must read for everyone!,08-05-2025,145,Yes
+REV0173,B121,Train to Pakistan,Fiction,C058,Divya Nair,5,Must read for everyone!,17-05-2025,36,Yes
+REV0174,B114,Zero to One,Business,C039,Arun Reddy,5,One of the best books I've read.,01-02-2025,40,Yes
+REV0175,B101,Harry Potter and the Sorcerer's Stone,Fiction,C007,Ananya Mehta,5,One of the best books I've read.,20-01-2025,133,No
+REV0176,B115,The 5 AM Club,Self-Help,C040,Arun Reddy,2,Struggled to finish. Disappointing.,21-04-2025,3,Yes
+REV0177,B105,Python Crash Course,Technology,C046,Ravi Gupta,4,"Great book, slightly slow in middle.",02-03-2025,70,Yes
+REV0178,B102,The Alchemist,Self-Help,C018,Sudha Iyer,4,Really enjoyed it. Great read.,10-06-2025,149,Yes
+REV0179,B112,The Psychology of Money,Business,C013,Rekha Gupta,4,"Good read, would recommend.",26-04-2025,98,Yes
+REV0180,B102,The Alchemist,Self-Help,C015,Sunita Das,5,Must read for everyone!,12-04-2025,11,No
+REV0181,B102,The Alchemist,Self-Help,C040,Arun Reddy,3,Decent but nothing too special.,03-03-2025,57,Yes
+REV0182,B106,Data Analytics Guide,Education,C060,Madhuri Joshi,5,One of the best books I've read.,31-05-2025,80,Yes
+REV0183,B115,The 5 AM Club,Self-Help,C020,Suresh Mehta,4,"Good read, would recommend.",18-04-2025,64,No
+REV0184,B103,Atomic Habits,Self-Help,C016,Rekha Mishra,5,Changed my perspective. A masterpiece.,23-06-2025,149,Yes
+REV0185,B114,Zero to One,Business,C020,Suresh Mehta,3,Mixed feelings but okay overall.,13-04-2025,5,Yes
+REV0186,B103,Atomic Habits,Self-Help,C012,Arjun Joshi,4,"Great book, slightly slow in middle.",13-02-2025,97,Yes
+REV0187,B101,Harry Potter and the Sorcerer's Stone,Fiction,C057,Pooja Mehta,2,Not my type of book.,16-03-2025,143,Yes
+REV0188,B104,Rich Dad Poor Dad,Business,C022,Kartik Mishra,3,Mixed feelings but okay overall.,17-05-2025,85,No
+REV0189,B121,Train to Pakistan,Fiction,C005,Sachin Joshi,5,Changed my perspective. A masterpiece.,01-02-2025,89,Yes
+REV0190,B113,Sapiens,History,C013,Rekha Gupta,4,"Great book, slightly slow in middle.",30-04-2025,88,Yes
+REV0191,B114,Zero to One,Business,C003,Arun Agarwal,5,Absolutely loved it! Highly recommend.,13-03-2025,87,Yes
+REV0192,B108,Machine Learning Essentials,Technology,C046,Ravi Gupta,4,Really enjoyed it. Great read.,03-02-2025,50,Yes
+REV0193,B118,Data Structures in C++,Technology,C054,Kiran Gupta,1,Total waste of money.,02-02-2025,113,No
+REV0194,B108,Machine Learning Essentials,Technology,C011,Riya Chauhan,5,Could not put it down. Superb!,05-04-2025,55,No
+REV0195,B113,Sapiens,History,C041,Sudha Sharma,2,Expected more from this author.,29-05-2025,76,No
+REV0196,B117,Think and Grow Rich,Business,C014,Neha Nair,5,Changed my perspective. A masterpiece.,28-02-2025,33,Yes
+REV0197,B120,The White Tiger,Fiction,C058,Divya Nair,1,Total waste of money.,23-04-2025,94,Yes
+REV0198,B113,Sapiens,History,C039,Arun Reddy,5,One of the best books I've read.,11-05-2025,32,Yes
+REV0199,B122,Two States,Fiction,C033,Neha Tiwari,3,"Not bad, not great.",24-01-2025,69,No
+REV0200,B101,Harry Potter and the Sorcerer's Stone,Fiction,C043,Aakash Singh,4,"Well written, solid content.",26-05-2025,79,Yes
