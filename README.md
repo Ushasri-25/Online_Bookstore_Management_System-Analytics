@@ -1,11 +1,8 @@
-# Online_Bookstore_Management_System-Analytics
-# 📚 BookStore Analytics — Data Analysis Project
+# 📚 Online_Bookstore_Management_System-Analytics
 
 <div align="center">
 
 ![BookStore Analytics](https://img.shields.io/badge/BookStore-Analytics-1F4E79?style=for-the-badge&logo=bookstack&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-28a745?style=for-the-badge&logo=checkmarx&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
