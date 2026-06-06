@@ -4,9 +4,9 @@
 
 <br/>
 
-[![Dataset](https://img.shields.io/badge/📦%20Datasets-5%20CSV%20Files-blue)](./data/)
-[![Records](https://img.shields.io/badge/📊%20Records-444%20Total-blueviolet)](#-dataset-overview)
-[![Revenue](https://img.shields.io/badge/💰%20Revenue%20Tracked-INR%201%2C76%2C689-success)](#-key-findings)
+           [![Dataset](https://img.shields.io/badge/📦%20Datasets-5%20CSV%20Files-blue)](./data/)
+           [![Records](https://img.shields.io/badge/📊%20Records-444%20Total-blueviolet)](#-dataset-overview)
+           [![Revenue](https://img.shields.io/badge/💰%20Revenue%20Tracked-INR%201%2C76%2C689-success)](#-key-findings)
 
 </div>
 
@@ -217,41 +217,7 @@ Platinum   ▓▓▓▓     18%   Age Range: 19–45 yrs (avg 31.4)
 | 🔁 Duplicate order | 1 |
 
 ---
-
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-
-- Python 3.10+
-- pip or conda
-
-### 📥 Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/bookstore-analytics.git
-cd bookstore-analytics
-
-# 2. Create a virtual environment
-python -m venv venv
-source venv/bin/activate        # On Windows: venv\Scripts\activate
-
-# 3. Install dependencies
-pip install -r requirements.txt
-```
-
-### ▶️ Run the Analysis
-
-```bash
-# Launch Jupyter notebooks
-jupyter notebook notebooks/
-
-# Or run a specific analysis script
-python analysis/orders_revenue.py
-```
-
----
-
+-----
 ## 📈 Analysis Modules
 
 | 🔢 Module | 📓 Notebook | 📌 Focus Area |
