@@ -1,12 +1,10 @@
 # 📚 Online_Bookstore_Management_System-Analytics
 
 > **A comprehensive retail intelligence system for a bookstore — analysing inventory, customers, orders, returns, and reviews using Python & Pandas.**
-
 <br/>
-
-           [![Dataset](https://img.shields.io/badge/📦%20Datasets-5%20CSV%20Files-blue)](./data/)
-           [![Records](https://img.shields.io/badge/📊%20Records-444%20Total-blueviolet)](#-dataset-overview)
-           [![Revenue](https://img.shields.io/badge/💰%20Revenue%20Tracked-INR%201%2C76%2C689-success)](#-key-findings)
+[![Dataset](https://img.shields.io/badge/📦%20Datasets-5%20CSV%20Files-blue)](./data/)
+[![Records](https://img.shields.io/badge/📊%20Records-444%20Total-blueviolet)](#-dataset-overview)
+[![Revenue](https://img.shields.io/badge/💰%20Revenue%20Tracked-INR%201%2C76%2C689-success)](#-key-findings)
 
 </div>
 
