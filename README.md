@@ -1,42 +1,5 @@
-<div align="center">
+# Online BookStore Management System & Analytics
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=200&section=header&text=BookStore%20Analytics&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=End-to-End%20Retail%20Data%20Analysis%20%7C%20Python%20%7C%20Pandas%20%7C%20Jupyter&descAlignY=58&descSize=16" width="100%" alt="BookStore Analytics Banner"/>
-
-</div>
-
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
-[![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org)
-[![License](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](./LICENSE)
-[![Status](https://img.shields.io/badge/Status-Complete-1F4E79?style=for-the-badge&logo=checkmarx&logoColor=white)](#)
-
-<br/>
-
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/bookstore-analytics/blob/main/notebooks/01_books_analysis.ipynb)
-&nbsp;
-[![View Notebooks](https://img.shields.io/badge/View-Notebooks-orange?logo=jupyter)](https://github.com/YOUR_USERNAME/bookstore-analytics/tree/main/notebooks)
-&nbsp;
-[![Download Docs](https://img.shields.io/badge/Download-Documentation-blue?logo=microsoftword)](./docs/BookStore_Project_Documentation.docx)
-
-<br/>
-
-<p align="center">
-  <b>A production-grade data analytics pipeline for an Indian online bookstore</b><br/>
-  Covering inventory · customers · sales · returns · reviews — all in one place.
-</p>
-
-> 💡 **Key Result:** Revenue grew **+29.7%** from Jan → Apr 2025, peaking at ₹34,624.
-> Education & Biography are the **#1 preferred customer categories** yet have only 3 catalog titles — a clear restocking opportunity.
-
-<br/>
-
-[📊 Key Findings](#-key-findings) &nbsp;·&nbsp; [🚀 Get Started](#-getting-started) &nbsp;·&nbsp; [📦 Datasets](#-dataset-overview) &nbsp;·&nbsp; [💡 Insights](#-business-insights) &nbsp;·&nbsp; [📄 Docs](#-documentation)
-
-</div>
 
 ---
 
@@ -377,78 +340,6 @@ bookstore-analytics/
 
 ---
 
-## 🚀 Getting Started
-
-### ✅ Prerequisites
-
-- Python **3.10+**
-- `pip` or `conda`
-
-### 📥 Installation
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/bookstore-analytics.git
-cd bookstore-analytics
-
-# 2. Create and activate a virtual environment
-python -m venv venv
-source venv/bin/activate          # macOS / Linux
-venv\Scripts\activate             # Windows
-
-# 3. Install all dependencies
-pip install -r requirements.txt
-
-# 4. Launch Jupyter
-jupyter notebook notebooks/
-```
-
-### 📋 requirements.txt
-
-```
-pandas>=2.0.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-jupyter>=1.0.0
-openpyxl>=3.1.0
-```
-
-> 💡 Or run directly in the cloud — no setup needed:
-> [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/bookstore-analytics/blob/main/notebooks/01_books_analysis.ipynb)
-
----
-
-## 📈 Analysis Modules
-
-| # | 📓 Notebook | 🔍 Focus Area | 📌 Key Outputs |
-|---|------------|--------------|----------------|
-| 01 | `01_books_analysis.ipynb` | Catalog, pricing, ratings, categories | Category pie chart, bestseller heatmap |
-| 02 | `02_customer_analysis.ipynb` | Demographics, membership, geography | City map, age distribution, tier funnel |
-| 03 | `03_orders_revenue.ipynb` | Revenue, payments, coupons, trends | Monthly line chart, payment funnel |
-| 04 | `04_returns_analysis.ipynb` | Return reasons, refund status, losses | Pareto chart, refund status breakdown |
-| 05 | `05_reviews_analysis.ipynb` | Ratings, verified reviews, helpful votes | Rating histogram, word cloud |
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-| Tool | Version | Purpose |
-|------|:-------:|---------|
-| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square) | 3.10+ | Core language |
-| ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square) | 2.0+ | Data wrangling & aggregation |
-| ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square) | 1.24+ | Numerical computation |
-| ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?logo=python&logoColor=white&style=flat-square) | 3.7+ | Charts & plots |
-| ![Seaborn](https://img.shields.io/badge/-Seaborn-4c72b0?logo=python&logoColor=white&style=flat-square) | 0.12+ | Statistical visualisations |
-| ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square) | 1.0+ | Interactive notebooks |
-| ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square) | Latest | IDE |
-
-</div>
-
----
-
 ## 💡 Business Insights
 
 ### ✅ Strengths
@@ -472,26 +363,6 @@ openpyxl>=3.1.0
 
 ---
 
-## 📄 Documentation
-
-The full project is available as a professionally formatted Word document:
-
-📥 **[Download Project Documentation (.docx)](./docs/BookStore_Project_Documentation.docx)**
-
-The document includes:
-
-| Section | Content |
-|---------|---------|
-| 📊 Executive Summary | KPI dashboard with 8 key metrics |
-| 🗂️ Dataset Schemas | Full field descriptions for all 5 tables |
-| 🔗 Entity Relationships | FK mapping across all datasets |
-| 📈 Revenue Analysis | Monthly trend + order breakdown |
-| 👥 Customer Segments | Demographics, geography, membership |
-| 🔄 Returns Log | Complete 9-record returns & refund table |
-| ⭐ Review Analysis | Rating distribution & sentiment insights |
-| 💡 Recommendations | Prioritised action items for the business |
-
----
 
 ## 🤝 Contributing
 
@@ -511,42 +382,6 @@ git push origin feature/your-feature-name
 # 5. Open a Pull Request on GitHub
 ```
 
-### 📌 Commit Convention
+If this project helped you, please consider giving it a ⭐ 
 
-| Prefix | When to Use |
-|--------|------------|
-| `✨ Add:` | New feature or analysis module |
-| `🐛 Fix:` | Bug or data correction |
-| `📊 Data:` | Dataset update or new source |
-| `📝 Docs:` | README or documentation update |
-| `🔧 Config:` | Environment or config change |
-| `🎨 Style:` | Formatting or visual improvement |
-| `♻️ Refactor:` | Code restructure, no behaviour change |
 
----
-
-## 📜 License
-
-Distributed under the **MIT License** — see [`LICENSE`](./LICENSE) for full details.
-
-```
-MIT License  |  Copyright (c) 2025 BookStore Analytics Team
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software to use, copy, modify, merge, publish, distribute — subject
-to the conditions in the LICENSE file.
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=footer" width="100%" alt="footer"/>
-
-**Made with ❤️ by the BookStore Analytics Team**
-
-If this project helped you, please consider giving it a ⭐ — it means a lot!
-
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/bookstore-analytics?style=social)](https://github.com/YOUR_USERNAME/bookstore-analytics)
-[![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/bookstore-analytics?style=social)](https://github.com/YOUR_USERNAME/bookstore-analytics/fork)
-
-</div>
