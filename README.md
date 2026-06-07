@@ -202,12 +202,12 @@ bookstore-analytics/
 │      CUSTOMERS      │        │        ORDERS         │        │        BOOKS       │
 │─────────────────────│        │──────────────────────-│        │────────────────────│
 │ Customer_Id  (PK) ◄─┼────────┤ Customer_Id  (FK)     │        │ Book_Id  (PK)      │
-│ Customer_Name       │        │ Order_Id  (PK)         ├───────►│ Book_Title        │
-│ Age / Gender        │        │ Book_Id  (FK)          │        │ Author / Category │
-│ City / State        │        │ Total_Amount_Inr       │        │ Sale_Price_Inr    │
-│ Membership          │        │ Payment_Method         │        │ Avg_Rating        │
-│ Preferred_Category  │        │ Order_Status           │        │ Is_Bestseller     │
-└─────────────────────┘        └──────────┬─────────────┘        └──────────┬────────┘
+│ Customer_Name       │        │ Order_Id  (PK)        ├───────►│ Book_Title         │
+│ Age / Gender        │        │ Book_Id  (FK)         │        │ Author / Category  │
+│ City / State        │        │ Total_Amount_Inr      │        │ Sale_Price_Inr     │
+│ Membership          │        │ Payment_Method        │        │ Avg_Rating         │
+│ Preferred_Category  │        │ Order_Status          │        │ Is_Bestseller      │
+└─────────────────────┘        └──────────┬────────────┘        └──────────┬──────── ┘
                                            │                                 │
                                ┌───────────▼─────────────┐    ┌─────────────▼───────────┐
                                │         RETURNS          │    │         REVIEWS         │
