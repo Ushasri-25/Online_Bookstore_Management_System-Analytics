@@ -1,9 +1,9 @@
-# Online BookStore Management System & Analytics
-----
+ # 📚 Online Bookstore Management System & Analytics
+ ----
+ 
+A relational dataset simulating the operations of an Indian online bookstore, covering inventory, customers, transactions, returns, and reviews. Designed for analysis of sales trends, customer behaviour, inventory management, and review sentiment.
 
-A comprehensive data analytics project designed to analyze bookstore operations, customer behavior, sales performance, inventory trends, returns, and customer reviews using SQL and relational database concepts
-
----
+-----
 
 ## 📌 Table of Contents
 
@@ -13,7 +13,6 @@ A comprehensive data analytics project designed to analyze bookstore operations,
 4. [Entity Relationship](#-entity-relationship)
 5. [Key Findings](#-key-findings)
 6. [Business Insights](#-business-insights)
- 
 ---
 
 ## 🧭 About the Project
@@ -152,6 +151,24 @@ Five CSV files form the core of this project, all linked via shared keys (`Book_
 </details>
 
 ---
+## 2. File Summaries
+
+### Books.csv
+25 books spanning 7 genres and 3 languages. Prices range from ₹299 to ₹999. Discounts range from 0% to 20%. 17 of 25 books are flagged as bestsellers. Published by 6 Indian publishers.
+
+### customers.csv
+60 customers spread across 20 cities and 14 states. Perfectly balanced gender split (30M / 30F). Ages 19–45 with a mean of 31.4. Four membership tiers: Free, Silver, Gold, Platinum. Registered between January 2023 and June 2024.
+
+### Orders.csv
+150 orders placed between January and June 2025, generating ₹1,76,689 in total revenue. Average order value ₹1,178. Six payment methods, three coupon codes in circulation. 62% of orders were successfully delivered.
+
+### Returns.csv
+9 return records covering 6% of all orders. Average days-to-return: 7.9 days. Total refund requested: ₹13,114. Total actually processed: ₹4,164. Five of nine refunds were rejected.
+
+### Reviews.csv
+200 reviews across all 25 books. Average rating 3.78 / 5. 73% of reviews are from verified purchasers. Helpful votes range from 0 to 150.
+
+-----
 
 ## 📁 Project Structure
 
@@ -164,26 +181,16 @@ bookstore-analytics/
 │   ├── Orders.csv                    # 150 orders
 │   ├── Returns.csv                   # 9 returns
 │   └── Reviews_1.csv                 # 200 reviews
-│
-├── 📂 notebooks/                     # Jupyter analysis notebooks
-│   ├── 01_books_analysis.ipynb
-│   ├── 02_customer_analysis.ipynb
-│   ├── 03_orders_revenue.ipynb
-│   ├── 04_returns_analysis.ipynb
-│   └── 05_reviews_analysis.ipynb
-│
-├── 📂 docs/                          # Project documentation
-│   └── BookStore_Project_Documentation.docx
-│
-├── 📂 assets/                        # Images and static files
-│   └── banner.png
-│
+│__ 📂 Dataset overview
+|__ 📂 File summaries 
 ├── 📂 outputs/                       # Generated charts and exports
 │   └── charts/
-│
+│__ Entity Relationships
+|__ Key findings
+|_ Business Insights 
 ├── requirements.txt                  # Python dependencies
 ├── README.md                         # You are here
-└── LICENSE                           # MIT License
+
 ```
 
 ---
@@ -192,15 +199,15 @@ bookstore-analytics/
 
 ```
 ┌─────────────────────┐        ┌──────────────────────┐        ┌─────────────────────┐
-│      CUSTOMERS      │        │        ORDERS         │        │        BOOKS        │
-│─────────────────────│        │──────────────────────-│        │─────────────────────│
-│ Customer_Id  (PK) ◄─┼────────┤ Customer_Id  (FK)     │        │ Book_Id  (PK)       │
-│ Customer_Name       │        │ Order_Id  (PK)         ├───────►│ Book_Title          │
-│ Age / Gender        │        │ Book_Id  (FK)          │        │ Author / Category   │
-│ City / State        │        │ Total_Amount_Inr       │        │ Sale_Price_Inr      │
-│ Membership          │        │ Payment_Method         │        │ Avg_Rating          │
-│ Preferred_Category  │        │ Order_Status           │        │ Is_Bestseller       │
-└─────────────────────┘        └──────────┬─────────────┘        └──────────┬──────────┘
+│      CUSTOMERS      │        │        ORDERS         │        │        BOOKS       │
+│─────────────────────│        │──────────────────────-│        │────────────────────│
+│ Customer_Id  (PK) ◄─┼────────┤ Customer_Id  (FK)     │        │ Book_Id  (PK)      │
+│ Customer_Name       │        │ Order_Id  (PK)         ├───────►│ Book_Title        │
+│ Age / Gender        │        │ Book_Id  (FK)          │        │ Author / Category │
+│ City / State        │        │ Total_Amount_Inr       │        │ Sale_Price_Inr    │
+│ Membership          │        │ Payment_Method         │        │ Avg_Rating        │
+│ Preferred_Category  │        │ Order_Status           │        │ Is_Bestseller     │
+└─────────────────────┘        └──────────┬─────────────┘        └──────────┬────────┘
                                            │                                 │
                                ┌───────────▼─────────────┐    ┌─────────────▼───────────┐
                                │         RETURNS          │    │         REVIEWS         │
@@ -358,26 +365,6 @@ bookstore-analytics/
 - 📝 **Top 3 return reasons are avoidable** (changed mind, accidental purchase) — improved product descriptions and a purchase confirmation step can reduce these
 
 ---
-
-
-## 🤝 Contributing
-
-Contributions, bug reports, and feature requests are welcome!
-
-```bash
-# 1. Fork this repository
-# 2. Create your feature branch
-git checkout -b feature/your-feature-name
-
-# 3. Make your changes and commit
-git commit -m "✨ Add: description of your change"
-
-# 4. Push to your branch
-git push origin feature/your-feature-name
-
-# 5. Open a Pull Request on GitHub
-```
-
-If this project helped you, please consider giving it a ⭐ 
+If this project helped you, please consider giving it a ⭐ — it means a lot!
 
 
