@@ -365,6 +365,6 @@ bookstore-analytics/
 - 📝 **Top 3 return reasons are avoidable** (changed mind, accidental purchase) — improved product descriptions and a purchase confirmation step can reduce these
 
 ---
-If this project helped you, please consider giving it a ⭐ — it means a lot!
+If this project helped you, please consider giving it a ⭐ 
 
 
