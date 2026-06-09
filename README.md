@@ -181,14 +181,16 @@ bookstore-analytics/
 │   ├── Orders.csv                    # 150 orders
 │   ├── Returns.csv                   # 9 returns
 │   └── Reviews_1.csv                 # 200 reviews
+
 │__ 📂 Dataset overview
 |__ 📂 File summaries 
 ├── 📂 outputs/                       # Generated charts and exports
 │   └── charts/
+
 │__ Entity Relationships
 |__ Key findings
 |_ Business Insights 
-├── requirements.txt                  # Python dependencies
+├── requirements.txt                  # 
 ├── README.md                         # You are here
 
 ```
